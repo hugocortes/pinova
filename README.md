@@ -1,7 +1,11 @@
 # pinova
 Simple wireless anova + cayenne
 
-Credit goes to: http://community.mydevices.com/t/connecting-the-anova-precision-cooker-to-cayenne/3670
+Credit goes to: [kreggly](http://community.mydevices.com/t/connecting-the-anova-precision-cooker-to-cayenne/3670)
+
+## Libraries used:
+[Cayenne-MQTT-Python](https://github.com/myDevicesIoT/Cayenne-MQTT-Python/)  
+[pycirculate](https://github.com/erikcw/pycirculate)
 
 ## Install these first
 ```
